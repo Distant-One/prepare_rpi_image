@@ -4,7 +4,6 @@ These scripts will copy/edit files on the already mounted raspian stretch image:
   1. Enable ssh
   2. Configure wpa_suplicant if wifi is to be default ssh interface
   3. configure static ip address on default ssh interface either eth0 or wlan0
-  <to do> add more detail </to do>
   
 
 Prepare_rpi_image should be useful for anyone setting up raspberry pi especially for headless operation.
