@@ -11,4 +11,5 @@ rpibootpath=$mountpoint/boot
 # should probably check that rpibootpath exists
 # should probably check to see if ssh file exists in teh rpibootpath
 # may have to enter sudo password
+echo "sudo touch $rpibootpath/ssh"
 sudo touch $rpibootpath/ssh
